@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="0u3ZE7uqESYDxAMd9prz">
-    <mxGraphModel dx="3090" dy="920" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4583" dy="1533" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -384,16 +384,16 @@
           <mxGeometry y="98" width="340" height="102" as="geometry" />
         </mxCell>
         <mxCell id="sTKVhe5aF9eVnh70GAVM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=5;" parent="1" vertex="1">
-          <mxGeometry x="1085" y="700" width="580" height="351" as="geometry" />
+          <mxGeometry x="1208" y="693" width="580" height="351" as="geometry" />
         </mxCell>
         <mxCell id="sTKVhe5aF9eVnh70GAVM-2" value="LearningPaths &amp;amp; Activities Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=23;" parent="1" vertex="1">
-          <mxGeometry x="1122" y="722.5032258064516" width="460" height="32.90322580645161" as="geometry" />
+          <mxGeometry x="1245" y="715.5032258064516" width="460" height="32.90322580645161" as="geometry" />
         </mxCell>
         <mxCell id="sTKVhe5aF9eVnh70GAVM-5" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;LearningPath Management&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1115" y="854.5" width="234" height="96" as="geometry" />
+          <mxGeometry x="1238" y="847.5" width="234" height="96" as="geometry" />
         </mxCell>
         <mxCell id="sTKVhe5aF9eVnh70GAVM-7" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Activity Management&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1374" y="854.5" width="233" height="96" as="geometry" />
+          <mxGeometry x="1497" y="847.5" width="233" height="96" as="geometry" />
         </mxCell>
         <mxCell id="sTKVhe5aF9eVnh70GAVM-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="77" y="1707" width="682" height="374" as="geometry" />
