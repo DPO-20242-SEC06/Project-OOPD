@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="0u3ZE7uqESYDxAMd9prz">
-    <mxGraphModel dx="4909" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="12960" dy="5700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,13 +317,13 @@
         <mxCell id="83vnOwPLlXGg7ccvuWTX-4" value="&lt;div&gt;&amp;lt;&amp;lt;Coordinator&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User and role&lt;/div&gt;&lt;div&gt;management&lt;br&gt; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2982" y="4189" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="83vnOwPLlXGg7ccvuWTX-5" value="&lt;div&gt;&amp;lt;&amp;lt;Controller&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;LearningPaths and Activities Management&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="83vnOwPLlXGg7ccvuWTX-5" value="&lt;div&gt;&amp;lt;&amp;lt;Controller&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;LearningPaths and Activities Management&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="2982" y="4309" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="83vnOwPLlXGg7ccvuWTX-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;Information Holder&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Progress and feedback system&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="3202" y="4309" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="83vnOwPLlXGg7ccvuWTX-7" value="&lt;div&gt;&amp;lt;&amp;lt;Service Provider&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recommendation system  &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="83vnOwPLlXGg7ccvuWTX-7" value="&lt;div&gt;&amp;lt;&amp;lt;Service Provider&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recommendation system  &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="3202" y="4189" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="83vnOwPLlXGg7ccvuWTX-8" value="&lt;div&gt;&amp;lt;&amp;lt;Intefacer&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Persistence Layer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -344,7 +344,7 @@
         <mxCell id="36ZFppIiwciN3kxf19xP-6" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Authentication&lt;/b&gt;" style="html=1;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="59" y="4674.5" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="sTKVhe5aF9eVnh70GAVM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=5;" parent="1" vertex="1">
+        <mxCell id="sTKVhe5aF9eVnh70GAVM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="1674.5" y="4626" width="580" height="260" as="geometry" />
         </mxCell>
         <mxCell id="sTKVhe5aF9eVnh70GAVM-2" value="LearningPaths &amp;amp; Activities Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=23;" parent="1" vertex="1">
@@ -356,7 +356,7 @@
         <mxCell id="sTKVhe5aF9eVnh70GAVM-7" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Activity Management&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1990.5" y="4740" width="233" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="vBQAfoO4Nm9OnnSZS04b-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;arcSize=5;" parent="1" vertex="1">
+        <mxCell id="vBQAfoO4Nm9OnnSZS04b-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="2325.5" y="699" width="580" height="351" as="geometry" />
         </mxCell>
         <mxCell id="vBQAfoO4Nm9OnnSZS04b-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Recommendation system&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontStyle=1" parent="1" vertex="1">
@@ -380,19 +380,19 @@
         <mxCell id="vBQAfoO4Nm9OnnSZS04b-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="vBQAfoO4Nm9OnnSZS04b-6" vertex="1">
           <mxGeometry y="26" width="405" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="vBQAfoO4Nm9OnnSZS04b-9" value="+ recommendLearningPath(student:Student): List&amp;lt;LearningPath&amp;gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+recommendNextActivity(student:Student, lp: LearningPath): list&amp;lt;Activity&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vBQAfoO4Nm9OnnSZS04b-6" vertex="1">
+        <mxCell id="vBQAfoO4Nm9OnnSZS04b-9" value="+ recommendLearningPath(student:Student): List&amp;lt;LearningPath&amp;gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+recommendNextActivity(student:Student, lp: LearningPath): list&amp;lt;Activity&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vBQAfoO4Nm9OnnSZS04b-6" vertex="1">
           <mxGeometry y="34" width="405" height="56" as="geometry" />
         </mxCell>
         <mxCell id="vBQAfoO4Nm9OnnSZS04b-11" value="PreferenceManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2694.25" y="1272.5" width="405" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="vBQAfoO4Nm9OnnSZS04b-12" value="studentPreferences: Map&amp;lt;String, List&amp;lt;String&amp;gt;&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vBQAfoO4Nm9OnnSZS04b-11" vertex="1">
+        <mxCell id="vBQAfoO4Nm9OnnSZS04b-12" value="studentPreferences: Map&amp;lt;String, List&amp;lt;String&amp;gt;&amp;gt;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vBQAfoO4Nm9OnnSZS04b-11" vertex="1">
           <mxGeometry y="26" width="405" height="28" as="geometry" />
         </mxCell>
         <mxCell id="vBQAfoO4Nm9OnnSZS04b-13" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="vBQAfoO4Nm9OnnSZS04b-11" vertex="1">
           <mxGeometry y="54" width="405" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="vBQAfoO4Nm9OnnSZS04b-14" value="+ getStudentPreferences(studentUser: String): List&amp;lt;String&amp;gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+recommendNextActivity(student:Student, lp: LearningPath): list&amp;lt;Activity&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vBQAfoO4Nm9OnnSZS04b-11" vertex="1">
+        <mxCell id="vBQAfoO4Nm9OnnSZS04b-14" value="+ getStudentPreferences(studentUser: String): List&amp;lt;String&amp;gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+recommendNextActivity(student:Student, lp: LearningPath): list&amp;lt;Activity&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="vBQAfoO4Nm9OnnSZS04b-11" vertex="1">
           <mxGeometry y="62" width="405" height="56" as="geometry" />
         </mxCell>
         <mxCell id="nEVONwLMYM-QUYtWWZUk-1" value="Criticos:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.register&lt;/div&gt;&lt;div&gt;2.login&lt;/div&gt;&lt;div&gt;3.createLearningPath&lt;/div&gt;&lt;div&gt;4.addActivities&lt;/div&gt;&lt;div&gt;5.addReviews&lt;/div&gt;&lt;div&gt;6.enrollLearningPath&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7.trackMyProgress&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -2389,7 +2389,7 @@
             <mxPoint x="37" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NNqlhP3qEKdbdmKhmFju-399" value="learningpath-activities-management" style="shape=folder;fontStyle=1;tabWidth=216;tabHeight=37;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="NNqlhP3qEKdbdmKhmFju-399" value="learningpath-activities-management" style="shape=folder;fontStyle=1;tabWidth=216;tabHeight=37;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="4874" y="1218" width="2067" height="1230" as="geometry" />
         </mxCell>
         <mxCell id="tK086yhvQvfUv8esKxun-1" value="learning_path" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;" vertex="1" parent="NNqlhP3qEKdbdmKhmFju-399">
@@ -2922,7 +2922,7 @@
         <mxCell id="tK086yhvQvfUv8esKxun-326" value="Professor has a list of all the activities that he created or duplicated from another proffesor. In order to secure that only the creator of the activity could edit it&amp;nbsp;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="NNqlhP3qEKdbdmKhmFju-399">
           <mxGeometry x="1418" y="-27" width="318" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tK086yhvQvfUv8esKxun-136" value="learningpath-activities-management" style="shape=folder;fontStyle=1;tabWidth=216;tabHeight=37;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="tK086yhvQvfUv8esKxun-136" value="learningpath-activities-management" style="shape=folder;fontStyle=1;tabWidth=216;tabHeight=37;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="931" y="5018" width="2067" height="1230" as="geometry" />
         </mxCell>
         <mxCell id="tK086yhvQvfUv8esKxun-137" value="learning_path" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;" vertex="1" parent="tK086yhvQvfUv8esKxun-136">
@@ -4219,6 +4219,110 @@
           <mxGeometry x="0.2347" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-576" value="recommendation_system" style="shape=folder;fontStyle=1;tabWidth=182;tabHeight=40;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="8299" y="386" width="641" height="779" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-580" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="tK086yhvQvfUv8esKxun-576" source="tK086yhvQvfUv8esKxun-581" target="tK086yhvQvfUv8esKxun-584">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-588" value="preferenceManager" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tK086yhvQvfUv8esKxun-580">
+          <mxGeometry x="-0.1592" y="3" relative="1" as="geometry">
+            <mxPoint x="4" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-589" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tK086yhvQvfUv8esKxun-580">
+          <mxGeometry x="0.5939" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-581" value="RecommendationService" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="tK086yhvQvfUv8esKxun-576">
+          <mxGeometry x="118" y="182" width="405" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-582" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=default;" vertex="1" parent="tK086yhvQvfUv8esKxun-581">
+          <mxGeometry y="26" width="405" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-583" value="+ recommendLearningPath(student:Student): List&amp;lt;LearningPath&amp;gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+recommendNextActivity(student:Student, lp: LearningPath): list&amp;lt;Activity&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tK086yhvQvfUv8esKxun-581">
+          <mxGeometry y="34" width="405" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-584" value="PreferenceManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="tK086yhvQvfUv8esKxun-576">
+          <mxGeometry x="118" y="551" width="405" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-585" value="studentPreferences: Map&amp;lt;String, List&amp;lt;String&amp;gt;&amp;gt;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tK086yhvQvfUv8esKxun-584">
+          <mxGeometry y="26" width="405" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-586" value="" style="line;strokeWidth=1;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="tK086yhvQvfUv8esKxun-584">
+          <mxGeometry y="54" width="405" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-587" value="+ getStudentPreferences(studentUser: String): List&amp;lt;String&amp;gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+recommendNextActivity(student:Student, lp: LearningPath): list&amp;lt;Activity&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tK086yhvQvfUv8esKxun-584">
+          <mxGeometry y="62" width="405" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-590" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="NNqlhP3qEKdbdmKhmFju-121" target="tK086yhvQvfUv8esKxun-584">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5576" y="1092" />
+              <mxPoint x="8620" y="1092" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-592" value="preferenceManager" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tK086yhvQvfUv8esKxun-590">
+          <mxGeometry x="-0.9656" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-593" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tK086yhvQvfUv8esKxun-590">
+          <mxGeometry x="-0.9843" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-595" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="5751" y="4573.5" width="580" height="351" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-596" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Recommendation system&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="5872" y="4588.5" width="365.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-597" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Recommendation Service&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5791.5" y="4739.5" width="233" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-598" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Preference Management&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6055.5" y="4739.5" width="233" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-610" value="recommendation_system" style="shape=folder;fontStyle=1;tabWidth=182;tabHeight=40;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="5760" y="5123" width="641" height="779" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-611" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="tK086yhvQvfUv8esKxun-610" source="tK086yhvQvfUv8esKxun-614" target="tK086yhvQvfUv8esKxun-617">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-612" value="preferenceManager" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tK086yhvQvfUv8esKxun-611">
+          <mxGeometry x="-0.1592" y="3" relative="1" as="geometry">
+            <mxPoint x="4" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-613" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tK086yhvQvfUv8esKxun-611">
+          <mxGeometry x="0.5939" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-614" value="RecommendationService" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="tK086yhvQvfUv8esKxun-610">
+          <mxGeometry x="118" y="182" width="405" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-615" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=default;" vertex="1" parent="tK086yhvQvfUv8esKxun-614">
+          <mxGeometry y="26" width="405" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-616" value="+ recommendLearningPath(student:Student): List&amp;lt;LearningPath&amp;gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+recommendNextActivity(student:Student, lp: LearningPath): list&amp;lt;Activity&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tK086yhvQvfUv8esKxun-614">
+          <mxGeometry y="34" width="405" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-617" value="PreferenceManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="tK086yhvQvfUv8esKxun-610">
+          <mxGeometry x="118" y="551" width="405" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-618" value="studentPreferences: Map&amp;lt;String, List&amp;lt;String&amp;gt;&amp;gt;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tK086yhvQvfUv8esKxun-617">
+          <mxGeometry y="26" width="405" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-619" value="" style="line;strokeWidth=1;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="tK086yhvQvfUv8esKxun-617">
+          <mxGeometry y="54" width="405" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="tK086yhvQvfUv8esKxun-620" value="+ getStudentPreferences(studentUser: String): List&amp;lt;String&amp;gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+recommendNextActivity(student:Student, lp: LearningPath): list&amp;lt;Activity&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tK086yhvQvfUv8esKxun-617">
+          <mxGeometry y="62" width="405" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
