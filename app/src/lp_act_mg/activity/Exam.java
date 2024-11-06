@@ -6,7 +6,7 @@ import java.util.List;
 public class Exam {
 
     public final String EXAM = "Exam";
-    private int grade;
+    private double grade;
     private String statusSubmission;
     private List<ExamQuestion> questions;
 
@@ -27,7 +27,7 @@ public class Exam {
         this.grade = grade;
     }
 
-    public int getGrade() {
+    public double  getGrade() {
         return grade;
     }
 
