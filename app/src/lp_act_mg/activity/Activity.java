@@ -36,7 +36,7 @@ public abstract class Activity {
 
     public void addPreviousActivity(Activity activity){
         this.previousActivities.add(activity);
-    }
+    } 
 
     public void addFollowingActivity(Activity activity){
         this.followingActivities.add(activity);
@@ -47,7 +47,7 @@ public abstract class Activity {
     }
 
     public abstract void showActivity();
-
+ 
     
 
 
