@@ -12,11 +12,11 @@ public class ActivityManager {
         this.activities = activities;
     }
 
-    public createActivity(String description, String difficultyLevel, int expectedDuration, Date limitDate, boolean mandatory) {
+    public void createActivity(String description, String difficultyLevel, int expectedDuration, Date limitDate, boolean mandatory) {
         // Create a new activity
-        Activity activity = new Activity(description, difficultyLevel, expectedDuration, limitDate, mandatory);
+
         // Add the activity to the list of activities
-        activities.add(activity);
+
     }
 
 

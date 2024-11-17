@@ -1,6 +1,7 @@
 package lp_act_mg.activity;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import user_role_management.user_management.Student;
 
@@ -17,7 +18,7 @@ public class Quiz extends Activity {
         this.questions = new ArrayList<>();
     }
 
-    public void addQuestion(QuizQuestion question) {
+	public void addQuestion(QuizQuestion question) {
         questions.add(question);
     }
 
