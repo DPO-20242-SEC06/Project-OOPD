@@ -1,18 +1,16 @@
-package user_role_management.user_management;
+public static void main(String[] args) {
+    UserProfileManagement userProfileManagement = new UserProfileManagement();
 
-public class UserProfileManagement {
-    private PreferenceManager preferenceManager;
+    // Crear usuarios
+    userProfileManagement.createUser("prof01", "Dr. Smith", "smith@school.edu", "password123");
+    userProfileManagement.createUser("stud01", "John Doe", "john@student.com", "password456");
 
-    public User getUserProfile(String username) {
-
-        return null;
+    // Obtener perfil
+    User user = userProfileManagement.getUserProfile("prof01");
+    if (user != null) {
+        System.out.println("Usuario encontrado: " + user.getName());
     }
 
-    public void updateUserProfile(String username, String newName, String newEmail) {
-
-    }
-
-    public void createUser(String username, String name, String email, String password) {
-
-    }
+    // Actualizar perfil
+    userProfileManagement.updateUserProfile("stud01", "John A. Doe", "john.doe@student.com");
 }
