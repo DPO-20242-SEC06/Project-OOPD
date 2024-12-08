@@ -6,7 +6,7 @@ import java.util.List;
 public class ActivityManager {
 
     // A list with all the activities that the system has available
-    private List<Activity> activities;
+    public List<Activity> activities;
 
     public ActivityManager(List<Activity> activities) {
         this.activities = activities;

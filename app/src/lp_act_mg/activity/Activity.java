@@ -37,6 +37,10 @@ public abstract class Activity {
         this.professor = professor;
     }
 
+    public double getRating() {
+        return rating;
+    }
+
     public Professor getProfessor(){
         return this.professor;
     }

@@ -12,16 +12,16 @@ public class RecommendationService {
     private PreferenceManager preferenceManager;
 
     public RecommendationService() {
-        this.preferenceManager = new PreferenceManager();
+        this.preferenceManager = new PreferenceManager(null);
     }
 
     public List<LearningPath> recommendLearningPath(Student student) {
         List<String> preferences = preferenceManager.getStudentPreferences(student.getUsername());
         List<LearningPath> learningPaths = new ArrayList<>();
 
-        for (String preference : preferences) {
-            learningPaths.add(new LearningPath(preference));
-        }
+        for (int i = 0; i < preferences.size(); i++) {
+			learningPaths.add(new LearningPath());
+		}
 
         return learningPaths;
     }
