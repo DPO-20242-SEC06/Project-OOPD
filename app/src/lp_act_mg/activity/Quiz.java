@@ -45,13 +45,11 @@ public class Quiz extends Activity {
     }
     @Override
     public boolean isCompleted(Student student) {
-        // TODO Auto-generated method stub
         return false;
     }
 
     @Override
     public void showActivity() {
-        // TODO Auto-generated method stub
         System.out.println("Titulo: " + this.title);
         System.out.println("Descripcion: " + this.description);
         System.out.println("Nivel de Dificultad: " + this.difficultyLevel);

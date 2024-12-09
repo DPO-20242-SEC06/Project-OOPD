@@ -1,7 +1,6 @@
 package recommendation_system;
 
 import java.util.List;
-
 import lp_act_mg.activity.Activity;
 import lp_act_mg.learning_path.LearningPath;
 import user_role_management.user_management.Student;

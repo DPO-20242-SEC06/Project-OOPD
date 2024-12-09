@@ -2,14 +2,13 @@ package user_role_management.user_management;
 
 public class Student extends User {
     public static final String STUDENT = "Student";
-    private String preferences; // Preferencias del estudiante
+    private String preferences;
 
     public Student(String username, String password, String name, String email, String preferences) {
         super(username, password, name, email);
         this.preferences = preferences;
     }
 
-    // Métodos específicos para el estudiante
     public void enrollLearningPath(String learningPathName) {
         System.out.println("Inscrito en la ruta de aprendizaje: " + learningPathName);
     }

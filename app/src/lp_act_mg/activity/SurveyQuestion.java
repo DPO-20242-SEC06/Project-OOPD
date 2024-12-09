@@ -18,7 +18,6 @@ public class SurveyQuestion extends Question {
 	
 	@Override
 	public void showStatement() {
-		// TODO Auto-generated method stub
 		System.out.println("Question: " + this.statement);
 	}
 

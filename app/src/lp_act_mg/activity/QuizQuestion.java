@@ -17,7 +17,9 @@ public class QuizQuestion {
     public void addQuestion(Option option) {
         options.add(option);
     }
-
+    public List<Option> getQuestion() {
+       return options;
+    }
     public void setCorrectOption(Option correctOption) {
         this.correctOption = correctOption;
     }
@@ -33,7 +35,11 @@ public class QuizQuestion {
     public boolean isCorrect(Option option) {
         return correctOption.equals(option);
     }
-    
+
+	public Option getCorrectAnswer() {
+		return correctOption;
+	}
+  
 
     
 }

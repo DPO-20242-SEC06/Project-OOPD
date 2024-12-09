@@ -7,7 +7,6 @@ public class Professor extends User {
         super(username, password, name, email);
     }
 
-    // Métodos específicos para el profesor
     public void createLearningPath(String learningPathName) {
         System.out.println("Ruta de aprendizaje creada: " + learningPathName);
     }
